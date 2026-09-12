@@ -709,55 +709,6 @@ This keeps the human analyst in the loop.
 
 ---
 
-# 📈 Roadmap
-
-## Phase 1 — Architecture & Infrastructure
-
-* [x] Project architecture
-* [x] FastAPI foundation
-* [x] React foundation
-* [x] PostgreSQL
-* [x] Redis
-* [x] Celery
-* [x] Docker support
-
-## Phase 2 — SOC Core
-
-* [x] JWT authentication
-* [x] RBAC
-* [x] Wazuh integration
-* [x] Alert synchronization
-* [x] Alert APIs
-* [x] Dashboard APIs
-* [x] WebSocket alerts
-* [x] Investigation foundation
-* [x] Testing
-
-## Phase 3 — AI Intelligence
-
-* [ ] MITRE ATT&CK integration
-* [ ] IOC extraction
-* [ ] VirusTotal integration
-* [ ] AbuseIPDB integration
-* [ ] AlienVault OTX integration
-* [ ] AI alert explanation
-* [ ] AI investigation assistant
-* [ ] Risk scoring
-* [ ] Investigation workspace
-* [ ] AI chat history
-
-## Phase 4 — SOC Automation
-
-* [ ] Automated incident reports
-* [ ] SOAR-style playbooks
-* [ ] Analyst approval workflows
-* [ ] Automated enrichment
-* [ ] Threat hunting
-* [ ] Advanced detection rules
-* [ ] Security response automation
-
----
-
 # 🎓 Skills Demonstrated
 
 This project demonstrates practical experience in:
